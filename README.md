@@ -1,0 +1,1 @@
+This is as far as I'm taking this project. I'm pretty pleased with my progress, but cannot for the life of me understand why my links on the lowest bar don't stay white, though they respond to the roll-over style established in the head section. If anyone can figure out where I went wrong in the coding, I'd appreciate the direction.
